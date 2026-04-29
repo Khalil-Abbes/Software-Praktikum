@@ -1,8 +1,5 @@
-# Software Engineering Lab: Implementation Phase
-
-**Course:** Software Engineering Lab (Software-Praktikum), Saarland University  
-**Instructors:** Prof. Dr. Sven Apel, Dr. Norman Peitek  
-
+# Implementation Phase
+ 
 ## Project Context
 This repository contains the implementation phase deliverables for "Saardew Valley," an organic farming simulation. The project required building a fully functional, deterministic simulation engine in Java based on our previous design. It features JSON parsing, pathfinding, plant growth cycles, weather simulations, and incident handling, alongside a rigorous testing suite designed to achieve high coverage and defeat injected codebase mutants.
 
