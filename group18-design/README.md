@@ -1,8 +1,5 @@
-# Software Engineering Lab: Design Phase
-
-**Course:** Software Engineering Lab (Software-Praktikum), Saarland University  
-**Instructors:** Prof. Dr. Sven Apel, Dr. Norman Peitek  
-
+# Design Phase
+ 
 ## Project Context
 This repository contains the design phase deliverables for "Saardew Valley," a complex organic farming simulation. The design phase required modeling a highly modular and flexible software architecture capable of simulating time ticks, farming actions, weather events (clouds/rain), and various random incidents across a coordinate-based map. The design had to be robust enough to accommodate unannounced requirement changes introduced halfway through the phase.
 
